@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React ,Javascript,Redux,Express JS,MongoDb, NodeJs**
 
-- 📫 How to reach me **asifkamal.reactjs.1992@gmail.com**
+- 📫 How to reach me **+919509624125**
 
 - ⚡ Fun fact **Yes you guessed it right!**
 
