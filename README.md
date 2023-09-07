@@ -1,3 +1,5 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*a-HMmQFQNC76zCZBZfFgJg.gif)]
+
 <h1 align="center">Hi 👋, I'm Asif Kamal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-fat-man-coding-using-feet-kevn6jkag7jauhk8.gif">
